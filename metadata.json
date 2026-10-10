@@ -1,0 +1,6 @@
+{
+  "name": "LadaRoots",
+  "description": "Malaysian pepper farming, harvest tracking, inventory, MPB market pricing, and two-sided buyer offer marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
